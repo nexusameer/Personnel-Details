@@ -15,8 +15,7 @@ Goals: >
  that I am everything 
  I’ve ever dreamed of becoming.
 
-Engineer : &Engineer "Web Developer"
-Lines:
+Engineer : &Engineer "Devops"
   i am *Engineer
   
 
