@@ -16,7 +16,6 @@ Goals: >
  I’ve ever dreamed of becoming.
 
 Engineer : &Engineer "Devops"
-Lines:
   i am *Engineer
   
 
