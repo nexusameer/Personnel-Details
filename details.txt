@@ -1,0 +1,22 @@
+Name : "Ameer Hamza"
+Father Name : "Rashid Habib"
+Degrees:
+  - Intermediate : Fsc 
+    year : 2017 to 2019
+  - Graduation : BScs
+    year : 2019 to 2023
+Intro: |
+ I am a Devops Enthusiast
+ Studying in Beconhouse 
+ doing specialization in devops
+
+Goals: >
+ I am ready to prove to myself 
+ that I am everything 
+ I’ve ever dreamed of becoming.
+
+Engineer : &Engineer "Devops"
+Lines:
+  i am *Engineer
+  
+
